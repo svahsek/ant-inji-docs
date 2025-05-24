@@ -1,0 +1,5 @@
+name: ant-inji-docs
+version: ~
+title: Inji Documentation
+nav:
+- modules/ROOT/nav.adoc

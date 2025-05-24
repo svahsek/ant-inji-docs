@@ -1,0 +1,15 @@
+site:
+  title: Inji Documentation
+  start_page: ant-inji-docs::index.adoc
+content:
+  sources:
+  - url: .
+    branches: HEAD
+    start_page: ROOT:index.adoc
+   - url: https://github.com/svahsek/ant-inji-wallet-web.git
+     branches: [main]
+     start_path: docs
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true

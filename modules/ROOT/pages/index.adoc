@@ -1,0 +1,10 @@
+= Welcome to Inji Documentation
+:page-layout: default
+
+== Inji Documentation
+Learn more about the local documentation:
+* xref:ant-inji-docs::index.adoc[Inji Documentation]
+
+== Inji Wallet Web
+Learn more about the global documentation:
+* xref:ant-inji-wallet-web::index.adoc[Inji Wallet Web]
