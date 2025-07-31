@@ -1,11 +1,4 @@
-= index page
-Inji Wallet Mobile Site
-* xref:wallet-mobile::index.adoc[Mobile Wallet]
-** xref:wallet-mobile::installation.adoc[Installation]
-** xref:wallet-mobile::configuration.adoc[Configuration]
-** xref:wallet-mobile::api-reference.adoc[API Reference]
+// = index page
+// Inji Wallet Mobile Site
 
-* xref:wallet-web::index.adoc[Web Wallet]
-** xref:wallet-web::setup.adoc[Setup]
-** xref:wallet-web::features.adoc[Features]
-** xref:wallet-web::troubleshooting.adoc[Troubleshooting]
+* xref:ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[Web Deployment Architecture]
