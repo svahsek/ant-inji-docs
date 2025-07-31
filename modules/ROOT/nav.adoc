@@ -1,4 +1,12 @@
 // = index page
 // Inji Wallet Mobile Site
 
+
+* xref:index.adoc[Home]
+* xref:summary.adoc[Summary]
+
+// == Embedded Content
+// include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[hello]
+
 * xref:ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[Web Deployment Architecture]
+

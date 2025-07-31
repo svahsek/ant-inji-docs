@@ -1,0 +1,2 @@
+== Embedded Content
+include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[hello]
