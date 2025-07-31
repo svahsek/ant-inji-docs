@@ -1,1 +1,2 @@
-* xref:index.adoc[]
+= index page
+Inji Wallet Mobile Site
