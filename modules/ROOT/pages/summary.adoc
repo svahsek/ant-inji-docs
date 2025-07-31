@@ -1,2 +1,11 @@
-== Embedded Content
-include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[hello]
+== Inji Wallet Web
+Our deployment approach:
+
+include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[tag=load_balancer]
+
+=== Our Custom Setup
+Additional steps for our environment:
+- Step 1
+- Step 2
+
+include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[tag=configuration]
