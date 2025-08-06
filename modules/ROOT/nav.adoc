@@ -1,5 +1,6 @@
 // = index page
 // Inji Wallet Mobile Site
+// turn this into indexex as per antora nav.doc structure, also use * as per level
 
 
 * xref:index.adoc[Home]
@@ -10,3 +11,25 @@
 
 * xref:ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[Web Deployment Architecture]
 
+* xref:index.adoc[Home]
+** xref:inji/announcement.adoc[Announcement]
+** xref:inji/contribution/code-contribution.adoc[Code Contribution]
+** xref:inji/contribution/code-of-conduct.adoc[Code of Conduct]
+** xref:inji/contribution/README.adoc[Contribution README]
+** xref:inji/gendermag.adoc[GenderMag]
+** xref:inji/inji.adoc[Inji]
+** xref:inji/license.adoc[License]
+** xref:inji/project-governance.adoc[Project Governance]
+** xref:inji/resources.adoc[Resources]
+** xref:inji/roadmap/README.adoc[Roadmap README]
+** xref:inji/roadmap/roadmap-2024.adoc[Roadmap 2024]
+** xref:inji/roadmap/roadmap-2025.adoc[Roadmap 2025]
+** xref:inji/setup/deploy.adoc[Deploy]
+** xref:inji/setup/infrastructure-requirements.adoc[Infrastructure Requirements]
+** xref:inji/setup/README.adoc[Setup README]
+** xref:inji/standards-and-specifications.adoc[Standards and Specifications]
+** xref:inji/supported-integrations/README.adoc[Supported Integrations README]
+** xref:inji/try-it-out/README.adoc[Try It Out README]
+** xref:inji/try-it-out/using-mock-data.adoc[Using Mock Data]
+** xref:inji/use-case.adoc[Use Case]
+* xref:summary.adoc[Summary]

@@ -9,3 +9,8 @@ Additional steps for our environment:
 - Step 2
 
 include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[tag=configuration]
+
+
+
+== Java code example
+include::example$src//Users/keshavsingh/Office/inji-antora/inji-docs/ant-inji-docs/hello.java[tag::my-component]
