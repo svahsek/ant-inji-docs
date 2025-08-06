@@ -8,7 +8,8 @@ content:
       start_page: ROOT:index.adoc
     - url: https://github.com/svahsek/ant-inji-wallet-web.git
       branches: main
-      start_path: docs
+      worktree_pattern: '*'  # This allows access to files outside docs
+
     - url: https://github.com/svahsek/ant-inji-wallet-mobile.git
       branches: main
       start_path: docs
