@@ -1,3 +1,4 @@
+package code;
 
 // tag::my-component[]
 public class Hello {
