@@ -13,4 +13,16 @@ include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[tag=config
 
 
 == Java code example
-include::example$src//Users/keshavsingh/Office/inji-antora/inji-docs/ant-inji-docs/hello.java[tag::my-component]
+
+[source, java]
+----
+include::partial$hello.java[tag=my-component]
+----
+
+
+== eg 2
+
+[source, java]
+----
+include::example$src../../../hello.java[tags=my-method-example]
+----
