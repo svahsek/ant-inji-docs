@@ -16,7 +16,7 @@ include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[tag=config
 
 [source, java]
 ----
-include::partial$hello.java[tag=java-code]
+include::partial$hello.java[tag=my-component]
 ----
 
 
@@ -24,5 +24,5 @@ include::partial$hello.java[tag=java-code]
 
 [source, java]
 ----
-include::ant-inji-wallet-web::attachments$hello.java[tag=java-code]
+include::example$hello.java[tag=java-code]
 ----
