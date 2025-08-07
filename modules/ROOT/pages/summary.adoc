@@ -24,5 +24,5 @@ include::partial$hello.java[tag=my-component]
 
 [source, java]
 ----
-include::ant-inji-wallet-web::code/hello.java[tag=my-component]
+include::ant-inji-wallet-web::attachment$hello.java[tag=my-component]
 ----

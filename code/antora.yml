@@ -1,6 +1,0 @@
-# antora.yml
-name: my-component
-version: '1.0'
-title: My Docs
-nav:
-- modules/ROOT/nav.adoc
