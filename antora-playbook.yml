@@ -12,6 +12,8 @@ content:
     - url: https://github.com/svahsek/ant-inji-wallet-mobile.git
       branches: main
       start_path: docs
+    - url: https://github.com/svahsek/ant-inji-certify.git
+      branches: main
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable

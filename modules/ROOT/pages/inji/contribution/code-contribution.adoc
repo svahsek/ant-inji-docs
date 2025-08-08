@@ -6,7 +6,7 @@ The recommended Github workflow here is for developers to submit code and docume
 
 === Repositories
 
-{% embed url="https://github.com/mosip/inji" %}
+* https://github.com/mosip/inji[Inji GitHub Repository]
 
 == Setup your development machine
 

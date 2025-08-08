@@ -8,3 +8,8 @@ Learn more about the local documentation:
 == Inji Wallet Web
 Learn more about the global documentation:
 * xref:ant-inji-wallet-web::index.adoc[Inji Wallet Web]
+
+
+== Inji Certify
+Learn more about the global documentation:
+* xref:ant-inji-certify::index.adoc[Inji Certify]

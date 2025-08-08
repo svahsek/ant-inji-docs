@@ -11,18 +11,17 @@ Additional steps for our environment:
 include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[tag=configuration]
 
 
+== eg 2
+
+[source, java]
+----
+include::example$hello.java[tag=java-code]
+----
+
 
 == Java code example
 
 [source, java]
 ----
 include::partial$hello.java[tag=my-component]
-----
-
-
-== eg 2
-
-[source, java]
-----
-include::example$hello.java[tag=java-code]
 ----
