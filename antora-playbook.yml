@@ -9,13 +9,26 @@ content:
     - url: https://github.com/svahsek/ant-inji-wallet-web.git
       branches: main, release-0.8.0
       start_paths: docs
+    
+    - url: https://github.com/svahsek/mimoto.git
+      branches: main
+      start_paths: docs
+
     - url: https://github.com/svahsek/ant-inji-wallet-mobile.git
       branches: main
       start_path: docs
+    
+    # Inji Certify
     - url: https://github.com/svahsek/ant-inji-certify.git
       branches: main
       start_paths: docs
+asciidoc:
+  attributes:
+    component-order: 'ant-inji-docs,ant-inji-wallet-web,ant-inji-wallet-mobile,ant-inji-certify,mimoto'
+
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    url: https://github.com/springdoc/springdoc-antora-ui/releases/latest/download/ui-bundle.zip
     snapshot: true
+
+# https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
