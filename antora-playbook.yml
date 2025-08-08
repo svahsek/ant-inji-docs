@@ -7,13 +7,14 @@ content:
       branches: HEAD
       start_page: ROOT:index.adoc
     - url: https://github.com/svahsek/ant-inji-wallet-web.git
-      branches: main
+      branches: main, release-0.8.0
       start_paths: docs
     - url: https://github.com/svahsek/ant-inji-wallet-mobile.git
       branches: main
       start_path: docs
     - url: https://github.com/svahsek/ant-inji-certify.git
       branches: main
+      start_paths: docs
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
