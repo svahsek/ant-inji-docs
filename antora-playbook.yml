@@ -28,7 +28,7 @@ asciidoc:
 
 ui:
   bundle:
-    url: https://github.com/springdoc/springdoc-antora-ui/releases/latest/download/ui-bundle.zip
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/v4.1.0/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
 
 # https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
