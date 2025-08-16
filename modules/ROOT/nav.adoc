@@ -4,14 +4,6 @@
 
 
 * xref:index.adoc[Home]
-* xref:summary.adoc[Summary]
-
-// == Embedded Content
-// include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[hello]
-
-* xref:ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[Web Deployment Architecture]
-
-* xref:index.adoc[Home]
 ** xref:inji/announcement.adoc[Announcement]
 ** xref:inji/contribution/code-contribution.adoc[Code Contribution]
 ** xref:inji/contribution/code-of-conduct.adoc[Code of Conduct]
@@ -32,4 +24,21 @@
 ** xref:inji/try-it-out/README.adoc[Try It Out README]
 ** xref:inji/try-it-out/using-mock-data.adoc[Using Mock Data]
 ** xref:inji/use-case.adoc[Use Case]
+
+// == Embedded Content
+// include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[hello]
+
+
+* xref:ant-inji-certify::index.adoc[Inji Certify]
+
+* xref:ant-inji-wallet-web::index.adoc[Inji Wallet Web]
+
+
+* xref:ant-inji-wallet-mobile::index.adoc[Inji Wallet Mobile]
+
+* xref:ant-inji-verify::index.adoc[Inji Verify]
+
+
+
+* xref:summary.adoc[Summary]
 * xref:summary.adoc[Summary]
