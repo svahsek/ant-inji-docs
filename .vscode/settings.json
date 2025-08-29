@@ -1,0 +1,4 @@
+{
+  "vale.enabled": true,
+  "vale.configPath": ".vale.ini"
+}

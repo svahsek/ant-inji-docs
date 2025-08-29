@@ -4,26 +4,27 @@
 
 
 * xref:index.adoc[Home]
-** xref:inji/announcement.adoc[Announcement]
-** xref:inji/contribution/code-contribution.adoc[Code Contribution]
-** xref:inji/contribution/code-of-conduct.adoc[Code of Conduct]
-** xref:inji/contribution/README.adoc[Contribution README]
-** xref:inji/gendermag.adoc[GenderMag]
 ** xref:inji/inji.adoc[Inji]
-** xref:inji/license.adoc[License]
-** xref:inji/project-governance.adoc[Project Governance]
+
+** xref:inji/try-it-out/README.adoc[Try It Out]
+*** xref:inji/try-it-out/using-mock-data.adoc[Using Mock Data]
+** xref:inji/use-case.adoc[Use Case]
 ** xref:inji/resources.adoc[Resources]
 ** xref:inji/roadmap/README.adoc[Roadmap README]
-** xref:inji/roadmap/roadmap-2024.adoc[Roadmap 2024]
-** xref:inji/roadmap/roadmap-2025.adoc[Roadmap 2025]
-** xref:inji/setup/deploy.adoc[Deploy]
-** xref:inji/setup/infrastructure-requirements.adoc[Infrastructure Requirements]
-** xref:inji/setup/README.adoc[Setup README]
-** xref:inji/standards-and-specifications.adoc[Standards and Specifications]
+*** xref:inji/roadmap/roadmap-2024.adoc[Roadmap 2024]
+*** xref:inji/roadmap/roadmap-2025.adoc[Roadmap 2025]
 ** xref:inji/supported-integrations/README.adoc[Supported Integrations README]
-** xref:inji/try-it-out/README.adoc[Try It Out README]
-** xref:inji/try-it-out/using-mock-data.adoc[Using Mock Data]
-** xref:inji/use-case.adoc[Use Case]
+** xref:inji/project-governance.adoc[Project Governance]
+** xref:inji/contribution/README.adoc[Contribution]
+** xref:inji/gendermag.adoc[GenderMag]
+*** xref:inji/contribution/code-contribution.adoc[Code Contribution]
+*** xref:inji/contribution/code-of-conduct.adoc[Code of Conduct]
+** xref:inji/license.adoc[License]
+** xref:inji/setup/README.adoc[Setup README]
+** xref:inji/setup/infrastructure-requirements.adoc[Infrastructure Requirements]
+*** xref:inji/setup/deploy.adoc[Deploy]
+** xref:inji/standards-and-specifications.adoc[Standards and Specifications]
+
 
 // == Embedded Content
 // include::ant-inji-wallet-web::deploy/iww-deployment-architecture.adoc[hello]
@@ -37,8 +38,6 @@
 * xref:ant-inji-wallet-mobile::index.adoc[Inji Wallet Mobile]
 
 * xref:ant-inji-verify::index.adoc[Inji Verify]
-
-
 
 * xref:summary.adoc[Summary]
 * xref:summary.adoc[Summary]
